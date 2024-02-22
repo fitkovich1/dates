@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import clipboardCopy from 'clipboard-copy';
 import copyIcon from '../../images/copy_icon.svg';
 import copyCheckIcon from '../../images/copy_check.svg';
+import dangerIcon from '../../images/orange.png';
 import './index.css';
 
 
@@ -39,7 +40,13 @@ const ContentItem = ( { el } ) => {
 	return (
 		<div className={'App-content-item'}>
 			<div>
-				<p>{el.name} ({el.dateOfBirth})</p>
+				<p>
+					{el.name}
+					({el.dateOfBirth})
+					<img style={{marginLeft: '10px'}} src={el.headIcon} alt={'icon'}/>
+					<img src={el.headIcon} alt={'icon'}/>
+					<img src={el.headIcon} alt={'icon'}/>
+				</p>
 			</div>
 			<div className={'App-content-item-logPass'}>
 				<p>Логин: <span className={'green'}>{el.login}</span></p>

@@ -33,7 +33,25 @@
     gap: 20px;
 }
 
-.App-content-item-logPass > img {
+.App-subTitle {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0 20px;
+}
+
+.App-subTitle > div {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.App-subTitle > div > span {
+    color: #fff;
+    font-weight: 600;
+}
+
+
+img {
     width: 25px;
     height: 25px;
     cursor: pointer;
