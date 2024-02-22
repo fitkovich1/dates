@@ -1,0 +1,47 @@
+.App {
+    min-height: 100vh;
+    background-color: #282c34;
+}
+
+.App-title {
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+}
+
+.App-content {
+    padding: 20px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.App-content-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #727272;
+    border: 1px solid green;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.App-content-item-logPass {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.App-content-item-logPass > img {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.App-content-item p {
+    color: #fff;
+}
+
+
+
