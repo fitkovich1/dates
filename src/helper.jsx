@@ -18,7 +18,7 @@ export const datesData = [
 		headIcon: FutureIcon,
 		login: 'oleksii208@yahoo.com',
 		password: 'Warszawa2024',
-		range: 'с 08 Апреля до победы',
+		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Папа'
 	},
 	{
@@ -27,7 +27,7 @@ export const datesData = [
 		headIcon: FutureIcon,
 		login: 'o.korobka@yahoo.com',
 		password: 'Warszawa2024',
-		range: 'с 08 Апреля до победы',
+		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Мама'
 	},
 	{
@@ -36,7 +36,7 @@ export const datesData = [
 		headIcon: FutureIcon,
 		login: 'korobka.o@yahoo.com',
 		password: 'Warszawa2024',
-		range: 'с 08 Апреля до победы',
+		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Ребенок'
 	},
 	{
@@ -45,7 +45,7 @@ export const datesData = [
 		headIcon: FutureIcon,
 		login: 'mkorobka@yahoo.com',
 		password: 'Warszawa2024',
-		range: 'с 08 Апреля до победы',
+		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Ребенок'
 	},
 	{
@@ -54,7 +54,7 @@ export const datesData = [
 		headIcon: FutureIcon,
 		login: 'yakiv490@outlook.com',
 		password: 'Warszawa2024',
-		range: 'с 08 Апреля до победы',
+		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Ребенок'
 	},
 ]
