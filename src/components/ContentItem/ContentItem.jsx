@@ -40,7 +40,7 @@ const ContentItem = ( { el } ) => {
 	return (
 		<div className={'App-content-item'}>
 			<div>
-				<p>
+				<p style={{display: "flex"}}>
 					{el.name}
 					({el.dateOfBirth})
 					<img style={{marginLeft: '10px'}} src={el.headIcon} alt={'icon'}/>
