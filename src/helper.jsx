@@ -44,7 +44,7 @@ export const datesData = [
 		dateOfBirth: '06.01.1985',
 		headIcon: NowIcon,
 		login: 'o.korobka@yahoo.com',
-		password: 'Warszawa2024',
+		password: 'Warszawa2023',
 		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Мама'
 	},
@@ -53,7 +53,7 @@ export const datesData = [
 		dateOfBirth: '18.11.2015',
 		headIcon: NowIcon,
 		login: 'korobka.o@yahoo.com',
-		password: 'Warszawa2024',
+		password: 'Warszawa2023',
 		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Ребенок'
 	},
