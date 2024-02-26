@@ -4,7 +4,7 @@ import FutureIcon from '../src/images/future.png';
 
 export const datesData = [
 	{
-		name: 'BRYZGUNOU IHAR(Sviatlana)',
+		name: 'BRYZGUNOU IHAR(From Sviatlana)',
 		dateOfBirth: '26.07.1987',
 		headIcon: NowIcon,
 		login: 'i78143116@gmail.com',
@@ -13,16 +13,16 @@ export const datesData = [
 		notation: 'none',
 	},
 	{
-		name: 'BOHDAN MELNYK(Mikalai)',
+		name: 'SERHII DIKHTIARUK(From Mikalai)',
 		dateOfBirth: '',
 		headIcon: NowIcon,
-		login: 'Bilinskatetiana@ukr.net',
+		login: 'malvamalvaa@ukr.net',
 		password: 'qwertyuiopQ2@',
-		range: '8 апреля и до победы',
+		range: '9 апреля и до победы',
 		notation: 'none',
 	},
 	{
-		name: 'DMYTRENKO KATERYNA(Sviatlana)',
+		name: 'DMYTRENKO KATERYNA(From Sviatlana)',
 		dateOfBirth: '02.10.1989',
 		headIcon: NowIcon,
 		login: 'k50216648@proton.me',
@@ -31,7 +31,7 @@ export const datesData = [
 		notation: 'none',
 	},
 	{
-		name: 'KOROBKA OLEKSII(Sviatlana)',
+		name: 'KOROBKA OLEKSII(From Sviatlana)',
 		dateOfBirth: '26.08.1985',
 		headIcon: NowIcon,
 		login: 'oleksii208@yahoo.com',
@@ -40,7 +40,7 @@ export const datesData = [
 		notation: 'Папа'
 	},
 	{
-		name: 'KOROBKA OLEKSANDRA(Sviatlana)',
+		name: 'KOROBKA OLEKSANDRA(From Sviatlana)',
 		dateOfBirth: '06.01.1985',
 		headIcon: NowIcon,
 		login: 'o.korobka@yahoo.com',
@@ -49,7 +49,7 @@ export const datesData = [
 		notation: 'Мама'
 	},
 	{
-		name: 'KOROBKA OLENA(Sviatlana)',
+		name: 'KOROBKA OLENA(From Sviatlana)',
 		dateOfBirth: '18.11.2015',
 		headIcon: NowIcon,
 		login: 'korobka.o@yahoo.com',
@@ -58,7 +58,7 @@ export const datesData = [
 		notation: 'Ребенок'
 	},
 	{
-		name: 'KOROBKA MAIIA(Sviatlana)',
+		name: 'KOROBKA MAIIA(From Sviatlana)',
 		dateOfBirth: '19.05.2019',
 		headIcon: NowIcon,
 		login: 'mkorobka@yahoo.com',
@@ -67,7 +67,7 @@ export const datesData = [
 		notation: 'Ребенок'
 	},
 	{
-		name: 'MISHCHENKO YAKIV(Sviatlana)',
+		name: 'MISHCHENKO YAKIV(From Sviatlana)',
 		dateOfBirth: '21.06.2011',
 		headIcon: NowIcon,
 		login: 'yakiv490@outlook.com',
