@@ -15,7 +15,7 @@ export const datesData = [
 	{
 		name: 'SERHII DIKHTIARUK(From Mikalai)',
 		dateOfBirth: '',
-		headIcon: NowIcon,
+		headIcon: FutureIcon,
 		login: 'malvamalvaa@ukr.net',
 		password: 'qwertyuiopQ2@',
 		range: '9 апреля и до победы',
