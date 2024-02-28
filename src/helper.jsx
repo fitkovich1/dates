@@ -4,15 +4,6 @@ import FutureIcon from '../src/images/future.png';
 
 export const datesData = [
 	{
-		name: 'BRYZGUNOU IHAR(From Sviatlana)',
-		dateOfBirth: '26.07.1987',
-		headIcon: NowIcon,
-		login: 'i78143116@gmail.com',
-		password: 'Warszawa2024',
-		range: 'от 20 марта до 10 апреля',
-		notation: 'none',
-	},
-	{
 		name: 'SERHII DIKHTIARUK(From Mikalai)',
 		dateOfBirth: '',
 		headIcon: FutureIcon,
