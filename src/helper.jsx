@@ -4,24 +4,6 @@ import FutureIcon from '../src/images/future.png';
 
 export const datesData = [
 	{
-		name: 'SERHII DIKHTIARUK(From Mikalai)',
-		dateOfBirth: '',
-		headIcon: FutureIcon,
-		login: 'malvamalvaa@ukr.net',
-		password: 'qwertyuiopQ2@',
-		range: '9 апреля и до победы',
-		notation: 'none',
-	},
-	{
-		name: 'DMYTRENKO KATERYNA(From Sviatlana)',
-		dateOfBirth: '02.10.1989',
-		headIcon: NowIcon,
-		login: 'k50216648@proton.me',
-		password: 'Warszawa2024',
-		range: 'от 14 марта до 31 марта',
-		notation: 'none',
-	},
-	{
 		name: 'KOROBKA OLEKSII(From Sviatlana)',
 		dateOfBirth: '26.08.1985',
 		headIcon: NowIcon,
@@ -38,6 +20,15 @@ export const datesData = [
 		password: 'Warszawa2023',
 		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Мама'
+	},
+	{
+		name: 'SERHII DIKHTIARUK(From Mikalai)',
+		dateOfBirth: '',
+		headIcon: FutureIcon,
+		login: 'malvamalvaa@ukr.net',
+		password: 'qwertyuiopQ2@',
+		range: '9 апреля и до победы',
+		notation: 'none',
 	},
 	{
 		name: 'KOROBKA OLENA(From Sviatlana)',
@@ -65,5 +56,14 @@ export const datesData = [
 		password: 'Warszawa2024',
 		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
 		notation: 'Ребенок'
+	},
+	{
+		name: 'DMYTRENKO KATERYNA(From Sviatlana)',
+		dateOfBirth: '02.10.1989',
+		headIcon: NowIcon,
+		login: 'k50216648@proton.me',
+		password: 'Warszawa2024',
+		range: 'от 14 марта до 31 марта',
+		notation: 'none',
 	},
 ]
