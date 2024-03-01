@@ -4,24 +4,6 @@ import FutureIcon from '../src/images/future.png';
 
 export const datesData = [
 	{
-		name: 'KOROBKA OLEKSII(From Sviatlana)',
-		dateOfBirth: '26.08.1985',
-		headIcon: NowIcon,
-		login: 'oleksii208@yahoo.com',
-		password: 'Warszawa2024',
-		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
-		notation: 'Папа'
-	},
-	{
-		name: 'KOROBKA OLEKSANDRA(From Sviatlana)',
-		dateOfBirth: '06.01.1985',
-		headIcon: NowIcon,
-		login: 'o.korobka@yahoo.com',
-		password: 'Warszawa2023',
-		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
-		notation: 'Мама'
-	},
-	{
 		name: 'SERHII DIKHTIARUK(From Mikalai)',
 		dateOfBirth: '',
 		headIcon: FutureIcon,
