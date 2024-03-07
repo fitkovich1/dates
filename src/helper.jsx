@@ -4,21 +4,12 @@ import FutureIcon from '../src/images/future.png';
 
 export const datesData = [
 	{
-		name: 'SERHII DIKHTIARUK(From Mikalai)',
-		dateOfBirth: '',
+		name: 'ANASTASIIA MASHITSKSIA(From Sviatlana)',
+		dateOfBirth: 'none',
 		headIcon: NowIcon,
-		login: 'malvamalvaa@ukr.net',
-		password: 'qwertyuiopQ2@',
-		range: '9 апреля и до победы',
-		notation: 'none',
-	},
-	{
-		name: 'MISHCHENKO YAKIV(From Sviatlana)',
-		dateOfBirth: '21.06.2011',
-		headIcon: NowIcon,
-		login: 'yakiv490@outlook.com',
+		login: 'nastimash3@gmail.com',
 		password: 'Warszawa2024',
-		range: 'c 27.02 по 7.03, 18.03 - 20.03, 08.04 и до победы',
+		range: 'Открывающаяся дальняя дата (Апрель)',
 		notation: 'Ребенок'
 	},
 	{
