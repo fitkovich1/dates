@@ -13,6 +13,33 @@ export const datesData = [
 		notation: 'Ребенок'
 	},
 	{
+		name: 'Zhdanovich Sviatlana(From Mikalai)',
+		dateOfBirth: 'none',
+		headIcon: NowIcon,
+		login: 'Zhdanovise@mail.ru',
+		password: 'zhdanovich.S!123',
+		range: 'от 17 марта до 3 апреля',
+		notation: 'none',
+	},
+	{
+		name: 'ORLOWSKI JAN(From Mikalai)',
+		dateOfBirth: 'Круча(КСП)',
+		headIcon: NowIcon,
+		login: 'ORLOWSKI0580@GMAIL.COM',
+		password: 'zhdanovich.J!123',
+		range: 'от 17 марта до 3 апреля',
+		notation: 'none',
+	},
+	{
+		name: 'PAVEL(From Mikalai)',
+		dateOfBirth: 'Гражданство',
+		headIcon: NowIcon,
+		login: 'pavel.m.pavlovich@gmail.com',
+		password: 'PPassword1!',
+		range: 'Ближайшая дата(ловится +1 неделя)',
+		notation: 'none',
+	},
+	{
 		name: 'DMYTRENKO KATERYNA(From Sviatlana)',
 		dateOfBirth: '02.10.1989',
 		headIcon: NowIcon,
