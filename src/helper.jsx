@@ -31,15 +31,6 @@ export const datesData = [
 		notation: 'none',
 	},
 	{
-		name: 'PAVEL(From Mikalai)',
-		dateOfBirth: 'Гражданство',
-		headIcon: NowIcon,
-		login: 'pavel.m.pavlovich@gmail.com',
-		password: 'PPassword1!',
-		range: 'Ближайшая дата(ловится +1 неделя)',
-		notation: 'none',
-	},
-	{
 		name: 'DMYTRENKO KATERYNA(From Sviatlana)',
 		dateOfBirth: '02.10.1989',
 		headIcon: NowIcon,
