@@ -29,14 +29,5 @@ export const datesData = [
 		password: 'zhdanovich.J!123',
 		range: 'от 17 марта до 3 апреля',
 		notation: 'none',
-	},
-	{
-		name: 'DMYTRENKO KATERYNA(From Sviatlana)',
-		dateOfBirth: '02.10.1989',
-		headIcon: NowIcon,
-		login: 'k50216648@proton.me',
-		password: 'Warszawa2024',
-		range: 'от 14 марта до 31 марта',
-		notation: 'none',
-	},
+	}
 ]
