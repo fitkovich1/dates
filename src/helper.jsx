@@ -4,15 +4,6 @@ import FutureIcon from '../src/images/future.png';
 
 export const datesData = [
 	{
-		name: 'ANASTASIIA MASHITSKSIA(From Sviatlana)',
-		dateOfBirth: 'none',
-		headIcon: NowIcon,
-		login: 'nastimash3@gmail.com',
-		password: 'Warszawa2024',
-		range: 'Открывающаяся дальняя дата (Апрель)',
-		notation: 'Ребенок'
-	},
-	{
 		name: 'Zhdanovich Sviatlana(From Mikalai)',
 		dateOfBirth: 'none',
 		headIcon: NowIcon,
