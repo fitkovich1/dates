@@ -7,7 +7,7 @@ export const datesData = [
 		name: 'Zhdanovich Sviatlana(From Mikalai)',
 		dateOfBirth: 'none',
 		headIcon: NowIcon,
-		login: 'Zhdanovise@mail.ru',
+		login: 'sviatlanazhdanovich19@gmail.com',
 		password: 'zhdanovich.S!123',
 		range: 'от 17 марта до 3 апреля',
 		notation: 'none',
