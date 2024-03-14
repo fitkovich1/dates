@@ -11,14 +11,5 @@ export const datesData = [
 		password: 'zhdanovich.S!123',
 		range: 'от 17 марта до 3 апреля',
 		notation: 'none',
-	},
-	{
-		name: 'ORLOWSKI JAN(From Mikalai)',
-		dateOfBirth: 'Круча(КСП)',
-		headIcon: NowIcon,
-		login: 'ORLOWSKI0580@GMAIL.COM',
-		password: 'zhdanovich.J!123',
-		range: 'от 17 марта до 3 апреля',
-		notation: 'none',
 	}
 ]
