@@ -11,5 +11,14 @@ export const datesData = [
 		password: 'qwertyuiopQ2@',
 		range: 'дальняя открывающаяся дата',
 		notation: 'none',
+	},
+	{
+		name: 'Ekin1983(From Sviatlana)',
+		dateOfBirth: 'none',
+		headIcon: NowIcon,
+		login: 'ekin.bayildiran@gmail.com',
+		password: 'Ekin1983',
+		range: 'Словить до 24 мая',
+		notation: 'none',
 	}
 ]

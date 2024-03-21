@@ -3,6 +3,7 @@ import { datesData } from "../../helper";
 import ContentItem from "../ContentItem/ContentItem";
 import NowIcon from '../../images/now.png';
 import FutureIcon from '../../images/future.png';
+import { useEffect } from "react";
 
 const App = () => {
 	return (
