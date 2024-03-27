@@ -17,7 +17,7 @@ export const datesData = [
 		dateOfBirth: 'none',
 		headIcon: NowIcon,
 		login: 'ekin.bayildiran@gmail.com',
-		password: 'Ekin1983',
+		password: 'Ekin1984',
 		range: 'Словить до 24 мая',
 		notation: 'none',
 	}
